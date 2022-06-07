@@ -1,0 +1,121 @@
+/*
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 100%;
+    z-index: 100;
+    color: #fff;
+    font-size: 0;
+    padding: 0 20px 0 0;
+    background: #3c8cf0;
+    max-width: 1440px;
+    height: 60px;
+    line-height: 60px;
+    transform: translateX(-50%);
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 30%);
+}
+.header .header-wrap {
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.header .app-header {
+    height: 60px;
+}
+.h1-heading, .h2-heading {
+    font-weight: 600;
+}
+.h1-heading, .h2-heading, .h3-heading {
+    margin: 0;
+    font-weight: 400;
+    font-size: inherit;
+}
+.homepage-tab-headers {
+    margin-left: 70px;
+    line-height: 60px;
+}
+.inline-middle {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-menu-item{
+    position: relative;
+}
+.tab-header {
+    display: inline-block;
+    margin-right: 20px;
+}*/
+* {
+    box-sizing: border-box;
+    letter-spacing: .3px;
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 100%;
+    z-index: 100;
+    color: #fff;
+    font-size: 0;
+    padding: 0 20px 0 0;
+    background: #3c8cf0;
+    max-width: 1440px;
+    height: 60px;
+    line-height: 60px;
+    transform: translateX(-50%);
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 30%);
+}
+.header .header-wrap{
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.inline-top {
+    display: inline-block;
+    vertical-align: top;
+}
+.hover-cta {
+    transition: transform .2s;
+}
+.header .app-header {
+    height: 60px;
+}
+.h1-heading, .h2-heading {
+    font-weight: 600;
+}
+.header .app-logo {
+    height: 60px;
+    width: 158px;
+    padding: 13px;
+}
+.homepage-tab-headers {
+    margin-left: 70px;
+    line-height: 60px;
+}
+.inline-middle {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-menu-item {
+    position: relative;
+}
+.hover-cta {
+    transition: transform .2s;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.tab-header {
+    display: inline-block;
+    margin-right: 20px;
+}
+.menu{
+    background:#5b89b8;
+    width: 100%;
+    height: 45px;
+}

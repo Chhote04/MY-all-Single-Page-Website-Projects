@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*/-------------------------------alert css start--------------------------------/*/
+.alert{
+	border: 1px solid black;
+	height: 20px;
+	background: black;
+	color: white;
+	position: sticky;
+    top: 0;
+}
+/*/-------------------------------alert css end----------------------------------/*/
+
+/*/--------------------------------navbar css start----------------------------/*/
+.navbar{
+	border: 2px solid orange;
+    height: 50px;
+    background: orange;
+    /*BACKGROUND: ROYALBLUE;*/
+}
+header{
+	position: sticky;
+    top: 22px;
+}
+.navbar h1{
+	/border: 2px solid darkgrey;/
+    margin-right: 1000px;
+    margin-top: 10px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 27px;
+    margin-left: 13px;
+}
+.menu{
+	float: right;
+    /border: 2px solid green;/
+    margin-top: -10px;
+    margin-right: 25px;
+
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 13px;
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 17px;
+}
+.menu a:hover{
+	color: white;
+}
+/*/--------------------------------navbar css end----------------------------/
+
+/--------------------------------banner css start----------------------------/*/
+.banner{
+	border: 2px solid red;
+	height: 580px;
+	width: 100%;
+	background-image: url('../Image/dboy.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+}
+.banner button{
+    height: 40px;
+    width: 220px;
+    border-radius: 15px;
+    background: #c77a2ad1;
+    margin-top: 520px;
+    margin-left: 35px;
+    font-size: 17px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+/*.banner a{
+	text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
+}
+.banner_button{
+	border: 2px solid white;
+	height: 40px;
+	width: 220px;
+    position: relative;
+    top: 520px;
+    left: 35px;
+    border-radius: 15px;
+    background: #c77a2ad1;
+}*/
+.banner button:hover{
+	color: white;
+}
+/*/--------------------------------navbar css end----------------------------/
+
+/--------------------------------About css start----------------------------/*/
+.about{
+	border: 1px solid green;
+	height: 580px;
+}
+.about-content1{
+	border: 2px solid black;
+	height: 500px;
+	width: 300px;
+	float: left;
+    margin-top: 40px;
+    margin-left: 110px;
+    border-radius: 100px;
+    /background-image: url(img/banner1.png);/
+    outline-style: solid;
+    outline-color: orange;
+    outline-offset: 3px;
+    outline-width: 2px;
+}
+/*/--------------------------------About css end----------------------------/
+
+/--------------------------------gym css start----------------------------/*/
+.gym_container{
+	/border: 1px solid blue;/
+	height: 580px;
+	background-image: url(img/gym-bg.jpg);
+	background-size: cover;
+	height: 500px;
+    background: yellow;
+}
+.gym_container h1{
+	text-align: center;
+    font-size: 40px;
+    font-family: serif;
+    font-weight: 800;
+}
+.gym_man{
+	/border: 1px solid white;/
+	height: auto;
+	width: 400px;
+}
+/*/--------------------------------gym css end----------------------------/
+
+/--------------------------------yoga css start----------------------------/
+.yoga_container{*/
+	border: 1px solid blue;
+	height: 580px;
+}
+/*/--------------------------------yoga css end----------------------------/*/

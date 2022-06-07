@@ -1,0 +1,310 @@
+*{
+	margin: 0;
+	padding: 0;
+} 
+/*/--------------------------------navbar css start----------------------------/*/
+/*.navbar{
+	border: 2px solid orange;
+    height: 50px;
+    background: yellow;
+}
+header{
+	position: sticky;
+    top: 22px;
+}
+.navbar h1{
+	/border: 2px solid darkgrey;/
+    margin-right: 1000px;
+    margin-top: 10px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 27px;
+    margin-left: 13px;
+}
+.menu{
+	float: right;
+    /border: 2px solid green;/
+    margin-top: -10px;
+    margin-right: 25px;
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 13px;
+    color: black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 17px;
+}
+.menu a:hover{
+	color: white;
+}*/
+/*/--------------------------------navbar css end----------------------------/*/
+/*.navbar{
+	background-attachment: fixed;
+	position: fixed;
+	height: 117px;
+	width: 100%;
+	background: white;
+}
+.logo{
+	padding-left: 94px;
+    padding-top: 21px;
+}
+.logo img{
+	height: 37px;
+	width: 117px;
+}
+.menu{
+	word-spacing: 39px;
+    text-align: right;
+    padding-right: 127px;
+    padding-bottom: -28px;
+    margin-top: -29px;
+    font-size: 17px;
+	text-transform: uppercase;
+	font-family: fantasy;
+}
+.menu li{
+	text-decoration: none;
+	display: inline;
+}
+.menu ul li{
+	display: inline;
+}*/
+.cuntainer{
+	
+}
+.Abanner{
+	background: url('../Trimimages/T banner1.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 755px;
+	width: 100%;
+
+}
+.b1{
+	background: red;
+	color: white;
+	height: 100PX;
+	width: 100PX;
+}
+.b1 a{
+	font-size: 50px;
+
+}
+.LEARN{
+	margin-top: -399px;
+    background: rgba(255,255,255,.1);
+    font-family: "museo-sans", sans-serif;
+    height: 36px;
+    color: white;
+    width: 194px;
+    font-size: 16px;
+    padding-top: 20px;
+    margin-left: 164px;
+    border: 1px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+.box{
+	    margin-top: 30px;
+    margin-left: 61px;
+	width: 100%;
+	height: 1500px;
+}
+.text1{
+	    font-size: 19px;
+    margin-top: -158px;
+    padding-top: -26px;
+    text-decoration: none;
+    /* display: inline-block; */
+    padding-top: 4px;
+    margin-left: 89px;
+}
+.box1{
+	margin-right: 1px;
+}
+.box1 img{
+	height: 280px;
+	width: 280px;
+}
+.img:hover{
+    color: #000;
+}
+
+.box2{
+	    margin-top: 30px;
+    margin-left: 61px;
+	width: 100%;
+	height: 1500px;
+}
+.text2{
+	    font-size: 19px;
+    margin-top: -158px;
+    padding-top: -26px;
+    text-decoration: none;
+    /* display: inline-block; */
+    padding-top: 4px;
+    margin-left: 89px;
+}
+.box1a img{
+	height: 280px;
+	width: 280px;
+}
+.img:hover{
+    color: #000;
+}
+.a{
+			/*border: 2px solid;*/
+			width: 280px;
+			height: 280px;
+			margin-left: 17px;
+            margin-top: -9px;
+			float: left;
+			font-size: 30PX;
+			font-family: Open Sans;
+			color: #0f3dbc;
+			margin-bottom: 24px;
+		}
+		.imgs{
+			width: 280px;
+			height: 280px;
+		}
+		.A{
+			margin-left: 69px;
+		}
+		.Bbanner{
+			margin-top: 566px;
+	background: url('../Trimimages/2 banner.png');
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	width: 100%;
+
+}
+.LEARN1{
+	margin-top: 32px;
+    background: rgba(255,255,255,.1);
+    font-family: "museo-sans", sans-serif;
+    height: 36px;
+    color: white;
+    width: 194px;
+    font-size: 16px;
+    padding-top: 20px;
+    margin-left: 573px;
+    border: 1px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+.hhh{
+	text-align: center;
+	margin-top: -330px;
+	margin-left: 12px;
+}
+
+
+.aa{
+			/*border: 2px solid;*/
+			width: 580px;
+			height: 580px;
+			margin-left: 17px;
+            margin-top: -9px;
+			float: left;
+			font-size: 30PX;
+			font-family: Open Sans;
+			color: #0f3dbc;
+			margin-bottom: 24px;
+		}
+		.imgs2{
+			width: 580px;
+			height: 580px;
+		}
+		.B{
+			margin-top: 172px;
+			margin-left: 69px;
+		}
+		
+.lastbanner{
+	    margin-top: 1232px;
+	background: #000000;
+	height: 250px;
+	width: 100%;
+}
+.lbh1{
+	text-align: -webkit-center;
+    color: white;
+}
+.lbh1 h1{
+	color: white;
+	letter-spacing: 3px;
+    text-align: center;
+    color: white;
+    line-height: 4;
+    font-family: sans-serif;
+}
+
+.ip1 input{
+	border-radius: 4px;
+	border-color: white;
+	background: white;
+	color: white;
+	height: 42px;
+	width: 266px;
+}
+.ip1 a{
+	color: black;
+	margin-left: -214px;
+}
+.ip1 button{
+	border-radius: 4px;
+	border: hidden;
+    background: #4a4848;
+    color: white;
+    width: 92px;
+    height: 46px;
+    border-radius: 4px;
+}
+.ip1 button:hover{
+	color: white;
+	background: black;
+}
+
+
+.bottombar{
+	height: 600px;
+	width: 100%;
+	background: white;
+}
+.bottom1{
+	font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+	margin-left: 116px;
+    margin-top: 43px;
+	line-height: 3;
+    margin-left: 116px;
+    margin-top: 43px;
+    font-size: 21px;
+}
+.bottom1 ul li{
+	display: block;
+    text-decoration: none;
+    font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+    font-size: 14px;
+}
+.bottom2{
+	font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+	line-height: 3;
+    margin-left: 490px;
+    margin-top: -260px;
+    font-size: 13px;
+}
+.bottomicons i{
+	height: 10px;
+	width: 10px;
+}
+
+.D{
+	margin-top: 10px;
+}
+.a span{
+margin-top: 10px;
+}
